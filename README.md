@@ -1,5 +1,7 @@
 # Linux Autoconfigurer
 
+## Archiving this one because I decide to move it [Here](https://github.com/BSDSA-ISU/linux-kernel-configurer)
+
 ## Table here later
 
 ### how does this works?
